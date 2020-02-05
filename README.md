@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Solution published link
 https://lolitadias.github.io/D3-challenge/
 
@@ -84,3 +85,7 @@ Your final product will be assessed on the following metrics:
 ### Copyright
 
 Trilogy Education Services © 2019. All Rights Reserved.
+=======
+# D3-challenge
+https://lolitadias.github.io/D3-challenge/
+>>>>>>> 3584bdaf7167956ae248d1932b09bd3f3e2fca32
