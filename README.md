@@ -11,7 +11,7 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 
 
 
-2. Clone the new repository to your computer.
+
 
 3. Inside your local git repository, create a directory for the D3 challenge. Use the folder name to correspond to the challenge: **D3_data_journalism**.
 
