@@ -25,10 +25,6 @@ We have:
 * Created and situated our axes and labels to the left and bottom of the chart.
 
 
-* Check out [David Gotz's example](https://bl.ocks.org/davegotz/bd54b56723c154d25eedde6504d30ad7) to see how you should implement tooltips with d3-tip.
-
-- - -
-
 ### Assessment
 
 Your final product will be assessed on the following metrics:
