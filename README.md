@@ -15,7 +15,6 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 
 
 
-
 ## Your Task
 
 ### Core Assignment: D3 Dabbler (Required Assignment)
