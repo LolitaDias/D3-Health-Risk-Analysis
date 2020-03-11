@@ -1,4 +1,4 @@
-# D3 Homework - Data Journalism and D3
+# D3 - Data Journalism and D3
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
@@ -36,3 +36,5 @@ We have:
 * Created and situated our axes and labels to the left and bottom of the chart.
 
 ![4-scatter](Images/4-scatter.jpg)
+
+GitHub deployed link: https://lolitadias.github.io/D3-Health-Risk-Analysis/
