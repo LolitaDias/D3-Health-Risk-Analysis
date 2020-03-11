@@ -24,7 +24,6 @@ We have:
 
 * Created and situated our axes and labels to the left and bottom of the chart.
 
-* Note: You'll need to use `python -m http.server` to run the visualization. This will host the page at `localhost:8000` in your web browser.
 
 Why make a static graphic when D3 lets you interact with your data?
 
