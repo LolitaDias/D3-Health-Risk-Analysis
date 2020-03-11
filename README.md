@@ -3,8 +3,13 @@
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
 ## Background
+
+The goal of this project was to use JavaScript to present a visualization of pre-selected census data from each state within a web page. Since the baseline data was provided in CSV format, D3 was used to import and process the data, as well as generate the required visualization.
+
 ### Dataset
 The data set included with the assignment is based on 2014 ACS 1-year estimates: [https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml), but you are free to investigate a different data set. The current data set incldes data on rates of income, obesity, poverty, etc. by state. MOE stands for "margin of error."
+
+
 
 ## Your Task
 
