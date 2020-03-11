@@ -24,27 +24,6 @@ We have:
 
 * Created and situated our axes and labels to the left and bottom of the chart.
 
-
-### Assessment
-
-Your final product will be assessed on the following metrics:
-
-* Creation of a **new** repository on GitHub called `D3-Challenge` (note the kebab-case). Do not add to an already existing repo.
-
-* Completion of all steps in the core assignment
-
-* Coherency of scatter plot (labels, ticks)
-
-* Visual attraction
-
-* Professionalism
-
-**Good luck!**
-
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
-=======
 # D3-challenge
 https://lolitadias.github.io/D3-challenge/
 
