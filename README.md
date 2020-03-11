@@ -13,15 +13,21 @@ https://github.com/LolitaDias/D3-Health-Risk-Analysis/blob/master/assets/data/da
 
 ### Questions
 
-## Your Task
+1. For each state, what is the percentage of the population lacking healthcare versus the percentage of the population living in poverty?
 
-### Core Assignment: D3 Dabbler
+### Tasks
 
-![4-scatter](Images/4-scatter.jpg)
+1. Import the data from the CSV file.
+2. Set the locations and ranges for the x and y axes.
+3. Plot the x and y axes.
+4. Set the coordinates and dimensions for the circles representing the data for each state.
+5. Plot the circles representing the data for each state.
+6. Add a text label of each state's abbreviation within the appropriate circle for identification purposes.
 
-We have created a scatter plot between two of the data variables such as `Healthcare vs. Poverty`
 
-Using the D3 techniques, we created a scatter plot that represents each state with circle elements. 
+### Result
+
+We have created a scatter plot between two of the data variables such as `Healthcare vs. Poverty`. Using the D3 techniques, we created a scatter plot that represents each state with circle elements. 
 
 We have:
 
@@ -29,6 +35,4 @@ We have:
 
 * Created and situated our axes and labels to the left and bottom of the chart.
 
-# D3-challenge
-https://lolitadias.github.io/D3-challenge/
-
+![4-scatter](Images/4-scatter.jpg)
