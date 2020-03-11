@@ -24,7 +24,7 @@ We have:
 
 * Created and situated our axes and labels to the left and bottom of the chart.
 
-Why make a static graphic when D3 lets you interact with your data?
+
 
 ![7-animated-scatter](Images/7-animated-scatter.gif)
 
