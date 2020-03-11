@@ -26,7 +26,6 @@ We have:
 
 * Note: You'll need to use `python -m http.server` to run the visualization. This will host the page at `localhost:8000` in your web browser.
 
-
 ### Bonus: Impress the Boss (Optional Assignment)
 
 Why make a static graphic when D3 lets you interact with your data?
